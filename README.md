@@ -1,4 +1,6 @@
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+#### Hi everyone, I'm Duc Toan
+I'm a front-end web developer who like to improve the user interface and user experience 😋. In addition, I am also a person who likes to participate in the system requirements development process 🧑‍💻.
+<h2 align="center">💻 Technologies and Tools 💻</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -35,7 +37,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 Languages 🔥</h2>
+<h2 align="center">🎉 Github Stats 🎉</h2>
 <div align=center>
   <span>
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toantran201&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -44,6 +46,5 @@
         <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=toantran201&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </span>
 </div>
-
 <br>
 
