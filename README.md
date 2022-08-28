@@ -1,5 +1,7 @@
-#### Hi everyone, I'm Duc Toan (toantran201)✌️
-I'm a front-end web developer who likes to improve the user interface and user experience 😋. In addition, I am also a person who likes to participate in the system requirements development process 🧑‍💻.
+#### Hi everyone, I'm Duc Toan (toantran201) ✌️
+I'm a front-end web developer who likes to improve the user interface and user experience 😋. 
+
+In addition, I am also a person who likes to participate in the system requirements development process 🧑‍💻.
 <h2 align="center">💻 Technologies and Tools 💻</h2>
 <br>
 <!-- https://simpleicons.org/ -->
