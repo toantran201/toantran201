@@ -17,7 +17,7 @@ In addition, I am also a person who likes to participate in the system requireme
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/vuejs-282C34?logo=vuedotjs&logoColor=%234FC08D" alt="Redux logo" title="Redux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vuejs-282C34?logo=vuedotjs&logoColor=%234FC08D" alt="Vue logo" title="Vue" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
